@@ -1,5 +1,5 @@
 # twilio-SMS
-A twilio script that automates SMS sending.
+A Node.js script that automates twilio's SMS sending.
 
 # Usage:
 
