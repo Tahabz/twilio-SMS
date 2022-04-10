@@ -1,4 +1,4 @@
-# twilio-script
+# twilio-SMS
 A twilio script that automates SMS sending.
 
 # Usage:
