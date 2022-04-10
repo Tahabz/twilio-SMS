@@ -30,6 +30,6 @@ function logRes(res) {
 function logError(err) {
 	if (err) {
 		console.error(err);
-		appendFile("./error-logs", err + "\n");
+		appendFile("./error-logs", err + "\n").catch(console.err);
 	}
 }
